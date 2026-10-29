@@ -41,7 +41,7 @@ para registrar y visualizar pacientes de una clínica veterinaria.
 Agrega aquí una captura de la aplicación ejecutándose en el emulador
 o en un dispositivo Android.
 
-![KotlinPet Manager en ejecución](KotlinPet-Manager/funcionamiento.jpeg)
+![KotlinPet Manager en ejecución](funcionamiento.jpeg)
 
 ## Ejecución
 
