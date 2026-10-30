@@ -23,10 +23,8 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         setContent {
-            MaterialTheme {
-                Surface(
-                    color = MaterialTheme.colorScheme.background
-                ) {
+            KotlinPetManagerTheme {
+                Surface {
                     NavView()
                 }
             }

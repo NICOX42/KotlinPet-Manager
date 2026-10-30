@@ -8,5 +8,4 @@ data class Paciente (
     val contactoEmergencia : String,
     val esUrgencia : Boolean
 
-
 )
