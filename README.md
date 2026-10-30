@@ -38,10 +38,10 @@ para registrar y visualizar pacientes de una clínica veterinaria.
 
 ## Captura de pantalla
 
-Agrega aquí una captura de la aplicación ejecutándose en el emulador
-o en un dispositivo Android.
-
 ![KotlinPet Manager en ejecución](funcionamiento.jpeg)
+
+## Captura de pantalla con colores dinámicos (ajuste a los colores del sistema)
+![KotlinPet Manager en ejecución](funcionamiento1.jpeg)
 
 ## Ejecución
 
